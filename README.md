@@ -1,6 +1,6 @@
 # main
-## great 
+## mind sick
 ```
 working on it
 still not done
-```
+
