@@ -13,7 +13,7 @@ would br great.
 ```
 so me starting up,</br> something new was just.</br> 
 just wanna have some </br>
-ride with </br>
+ride with, </br>
 8 2 8 ima stack lict it.
 ```
 My work will be something great 
