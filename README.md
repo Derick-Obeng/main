@@ -6,7 +6,7 @@ working on it
 still not done
 no more hoping 
 going for it 
-would br great
+would br great.
 
 //sometime it's console.log('T');
 //others is System.println("I");
