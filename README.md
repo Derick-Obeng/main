@@ -19,4 +19,4 @@ ride with, </br>
 My work will be something great.
 
 a good day,
-everyday is a greate day
+everyday is a greate day.
