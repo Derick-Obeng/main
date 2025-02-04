@@ -16,6 +16,6 @@ just wanna have some </br>
 ride with, </br>
 8 2 8 ima stack lict it.
 ```
-My work will be something great 
+My work will be something great.
 
 
