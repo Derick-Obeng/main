@@ -18,4 +18,5 @@ ride with, </br>
 ```
 My work will be something great.
 
-a good day, 
+a good day,
+everyday is a greate day
