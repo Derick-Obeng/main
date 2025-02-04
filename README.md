@@ -5,7 +5,7 @@
 working on it.
 still not done.
 no more hoping, 
-going for it .
+going for it . 
 would be great.
 
 //sometime it's console.log('T');
